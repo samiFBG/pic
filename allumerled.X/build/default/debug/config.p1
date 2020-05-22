@@ -1,0 +1,28 @@
+Version 4.0 HI-TECH Software Intermediate Code
+"7 config.c
+[p x OSC = RC ]
+"8
+[p x WDT = ON ]
+"9
+[p x CP = OFF ]
+"54 C:\Program Files (x86)\Microchip\xc8\v2.10\pic\include\pic16c56.h
+[; ;C:\Program Files (x86)\Microchip\xc8\v2.10\pic\include\pic16c56.h: 54: __asm("INDF equ 00h");
+[; <" INDF equ 00h ;# ">
+"74
+[; ;C:\Program Files (x86)\Microchip\xc8\v2.10\pic\include\pic16c56.h: 74: __asm("TMR0 equ 01h");
+[; <" TMR0 equ 01h ;# ">
+"94
+[; ;C:\Program Files (x86)\Microchip\xc8\v2.10\pic\include\pic16c56.h: 94: __asm("PCL equ 02h");
+[; <" PCL equ 02h ;# ">
+"114
+[; ;C:\Program Files (x86)\Microchip\xc8\v2.10\pic\include\pic16c56.h: 114: __asm("STATUS equ 03h");
+[; <" STATUS equ 03h ;# ">
+"179
+[; ;C:\Program Files (x86)\Microchip\xc8\v2.10\pic\include\pic16c56.h: 179: __asm("FSR equ 04h");
+[; <" FSR equ 04h ;# ">
+"199
+[; ;C:\Program Files (x86)\Microchip\xc8\v2.10\pic\include\pic16c56.h: 199: __asm("PORTA equ 05h");
+[; <" PORTA equ 05h ;# ">
+"243
+[; ;C:\Program Files (x86)\Microchip\xc8\v2.10\pic\include\pic16c56.h: 243: __asm("PORTB equ 06h");
+[; <" PORTB equ 06h ;# ">
